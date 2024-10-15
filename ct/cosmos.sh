@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/Smiley83460/personalcmscloud/refs/heads/main/build.func)
+source <(curl -s https://raw.githubusercontent.com/Smiley83460/my-helper-script/refs/heads/main/misc/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
